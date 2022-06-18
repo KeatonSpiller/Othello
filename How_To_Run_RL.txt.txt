@@ -1,0 +1,7 @@
+﻿Requirements 
+* Python 3.10 or newer version
+* Required file q_weights.csv to store neural network weights
+* Put AI_Final_project_RL.py and q_weights.csv at the same folder
+The program can be executed by run the following command
+        > AI_Final_project_RL.py
+After that, follow the guidelines on the screen to select a right option
