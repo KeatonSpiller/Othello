@@ -14,11 +14,9 @@ The program can be executed by run the following command
 After that, follow the guidelines on the screen to select a right option
 
 MiniMax
-How to Run the MiniMax algorithm for three different heuristics
-
-heuristic1 = 'number_of_flipped_tiles' 
-heuristic2 = 'number_of_moves' 
-heuristic3 = 'number_of_tiles'
+﻿Requirements
+* Python 3.10 or newer version
+* Jupyter notebook
 
 opponent_strategy1 = 'random'
 opponent_strategy2 = 'optimal'
@@ -26,6 +24,10 @@ opponent_strategy2 = 'optimal'
 In order to change the moves of the opponent either choose 'random' to play against a random opponent,
 or 'optimal' to play against an opponent also making optimal moves
 opponent_strategy = 'random'
+
+heuristic1 = 'number_of_flipped_tiles' 
+heuristic2 = 'number_of_moves' 
+heuristic3 = 'number_of_tiles'
 
 In order to change which heuristic to run, change this heuristic equal to heuristic1|heuristic2||heuristic3 
 heuristic = heuristic3 
